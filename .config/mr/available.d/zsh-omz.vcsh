@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/zsh-omz.git]
+checkout = vcsh clone git@github.com:sameaton/zsh-omz.git zsh-omz
