@@ -1,0 +1,2 @@
+[.config/vcsh/repo.d/dotvim.git]
+checkout = vcsh clone git://github.com/sameaton/dotvim.git dotvim
